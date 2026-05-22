@@ -1,0 +1,26 @@
+.button{
+    color: blue;
+    height: 35px;
+    background-color: rgb(234, 234, 234);
+    border: none;
+    border-radius: 8px;
+
+
+    
+}
+.button .adicionar{
+    color: aquamarine;
+    background-color: blueviolet;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 20px, color(srgb rgb(235, 24, 24) rgb(244, 245, 244) rgb(192, 24, 5));
+}
+
+h1{
+    color: darkred;
+    position: relative;
+    font-family: fantasy;
+    border-bottom: 18px;
+    background-color: rgb(25, 0, 255);
+    border-bottom: 12px;
+}
