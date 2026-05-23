@@ -1,0 +1,40 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 850px;
+}
+
+img{
+    width: 380px;
+    height: 480px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: azure;
+}
+
+.botoes{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    background-color: rgb(182, 185, 209);
+}
+
+#ligado{
+    background-color: green;
+    color: aliceblue;
+}
+
+#desligado{
+    background-color: red;
+    color: aliceblue;
+}
